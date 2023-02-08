@@ -4,7 +4,7 @@ typedef pair<int,int> ii;
 signed main() {
     cin.tie(0);
     ios::sync_with_stdio(0);
-    freopen("balancing.in", "r", stdin);
+    freopen("in.txt", "r", stdin);
     freopen("balancing.out", "w", stdout);
     int N, B; cin >> N >> B;
     vector<ii> points;
